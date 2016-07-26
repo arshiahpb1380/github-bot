@@ -4,7 +4,7 @@
 ربات سرچ در گیت هاب با قابلیت اینلاین
 </i>
 
-#Installl
+#Install
 <b> اموزش نصب</b>
 ```sh
 sudo apt-get update
